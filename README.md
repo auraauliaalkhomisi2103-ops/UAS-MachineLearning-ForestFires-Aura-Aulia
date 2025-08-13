@@ -1,8 +1,8 @@
 # UAS Machine Learning - Prediksi Luas Kebakaran Hutan
 
 - **Nama:** Aura Aulia Alkhomisi
-- **NIM:** [Isi NIM Kamu di Sini]
-- **Kelas:** [Isi Kelas Kamu di Sini]
+- **NIM:** 227006516044
+- **Kelas:** Machine Leaning
 
 ---
 
